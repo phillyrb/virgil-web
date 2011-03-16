@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  canonical_package_id: 1
+  package_manager_id: 1
+
+two:
+  name: MyString
+  canonical_package_id: 1
+  package_manager_id: 1
